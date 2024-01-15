@@ -3,7 +3,7 @@
  * Creador Juan Jose Cano Gil
  */
 var mapa = [[]];
-var vida = 20;
+var vida = 50;
 var barco1 = [],
   barco2 = [],
   barco3 = [],
